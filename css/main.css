@@ -1,0 +1,13 @@
+* {
+  margin-top: 32px;
+}
+
+.container-fluid {
+  height: 200px;
+  background-image: url("http://cdn.static-economist.com/sites/default/files/imagecache/1872-width/images/2015/09/blogs/economist-explains/code2.png")
+}
+
+
+.carousel-inner {
+  margin: 20px 300px;
+}
